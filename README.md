@@ -86,7 +86,7 @@ section {
 
 ¡Buena suerte y diviértanse creando su CV!
 trabajo hecho por Juan Felipe Mahecha
-ttps://dsaw-2026-1.github.io/my-cv-part-b-jotamahecha/
+https://dsaw-2026-1.github.io/my-cv-part-b-jotamahecha/
 <img width="1865" height="934" alt="Captura de pantalla 2026-02-17 085304" src="https://github.com/user-attachments/assets/d7becaca-ec56-47cf-9025-6042f86d68d3" />
 https://dsaw-2026-1.github.io/my-cv-part-b-jotamahecha/
 <img width="1862" height="935" alt="Captura de pantalla 2026-02-20 083326" src="https://github.com/user-attachments/assets/912c7d65-c0d1-4abd-85a4-571f4c09067f" />
